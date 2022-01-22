@@ -1,0 +1,40 @@
+
+.xyz{
+    text-decoration: underline;
+}
+.abc{
+    height: 10vh;
+}
+.top_left{
+    height: 30vh;
+    background-color: #c81f79;
+}
+.top_right{
+    height: 30vh;
+    background-color: #1f41c8;
+}
+.mid_left{
+
+    height: 30vh;
+    background-color: transparent;
+}
+.mid_right{
+    height: 30vh;
+    background-color: transparent;
+}
+.form_left{
+    width: 50%;
+}
+.form_left label{
+    color: #c4c4c8;
+    margin-left: 5%;
+    padding-top: 10px;
+}
+.form_right{
+    width: 50%;
+}
+.form_right label {
+    color: #c4c4c8;
+    margin-left: 5%;
+    padding-top: 10px;
+}
